@@ -1,0 +1,13 @@
+/* Your custom styles */
+.boldr{
+    font-weight: bold;
+}
+.crt_1{
+    background: url(../img/1.jpg) no-repeat center center / cover;
+}
+.crt_2{
+    background: url(../img/2.jpg) no-repeat center center / cover;
+}
+.crt_3{
+    background: url(../img/3.jpg) no-repeat center center / cover;
+}
